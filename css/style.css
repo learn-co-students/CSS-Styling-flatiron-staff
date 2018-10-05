@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Charmonman');
+
+p {
+  font-size: 1em;
+  font-family: Georgia;
+  line-height: 1.5em;
+}
+
+figcaption {
+  /* font: normal 0.75em/1.5em Georgia, "Times New Roman", serif; */
+  color: rgb(106,13,13);
+  font-family: 'Charmonman', cursive;
+}
+
+p.milk-text {
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
+
+#logo h1 {
+  font-family: 'Charmonman', cursive;
+  font-style: bold;
+}
+
+#details a, #details a:visited, #details a:hover {
+  color: yellow;
+}
+
+a:hover {
+  color: orange;
+}
